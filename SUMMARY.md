@@ -12,17 +12,16 @@
   * [Diseño-Barra de Nevagación](how-to-make-an-app/app-design/diseno-barra-de-nevagacion.md)
   * [Diseño de Lista](how-to-make-an-app/app-design/diseno-de-lista.md)
   * [Colores del menu](how-to-make-an-app/app-design/colores-del-menu.md)
-* [Radio App Setup](how-to-make-an-app/specific-app-setp.md)
-* [Shopify App](how-to-make-an-app/shopify-app.md)
-* [App Settings](how-to-make-an-app/app-settings.md)
+* [Configuración de la app de radio](how-to-make-an-app/specific-app-setp.md)
+* [Ajuste de la App](how-to-make-an-app/app-settings.md)
 
 ## Test Mobile App
 
-* [Preview your app](test-mobile-app/preview-your-app.md)
+* [Previsualiza la app](test-mobile-app/preview-your-app.md)
 
 ## Publishing and updating
 
-* [Submit app for creation](publishing-and-updating/submit-app-for-creation.md)
+* [Enviar aplicación para creación](publishing-and-updating/submit-app-for-creation.md)
 * [Publish iOS App](publishing-and-updating/publish-ios-app.md)
 * [Updating your app](publishing-and-updating/updating-your-app.md)
 

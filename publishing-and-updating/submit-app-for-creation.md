@@ -1,20 +1,20 @@
-# Submit app for creation
+# Enviar aplicación para creación
 
-To submit your app to be compiled, click on the "Submit App"
+Para enviar su aplicación a compilar, haga clic en "Enviar aplicación"
 
-![](../.gitbook/assets/submit_app.png)
+![](../.gitbook/assets/submit.png)
 
-Click on the **Submit App** button
+Haga clic en el botón Enviar aplicación 
 
-Our automated process will compile, and build your mobile app in a few minutes - usually 10-20.
+Nuestro proceso automatizado compilará y construirá su aplicación móvil en unos minutos, generalmente 10-20. 
 
-We will send you a link that contains a .aab file. This is new version of apk file. It will be around 50MB. But when uploaded on your Google Play Developer console, Google will shrink to 16-20MB.
+Le enviaremos un enlace que contiene un archivo .aab. Esta es una nueva versión del archivo apk. Será de unos 50 MB. Pero cuando se carga en la consola de Google Play Developer, Google se reducirá a 16-20 MB.
 
-For iPhone app. We will need some extra things from your side. Head over to iPhone
+ Para la aplicación de iPhone. Necesitaremos algunas cosas adicionales de tu lado.
 
-![](../.gitbook/assets/send_files.png)
+![](../.gitbook/assets/submit_2.png)
 
-Send us email with info on how we can proceed.
+Envíenos un correo electrónico con información sobre cómo podemos proceder.
 
-What we will do, is we will compile and make your app. But we will need you to provide us with your Apple Developer Account credentials \( 99$/y \) so we can upload your iPhone app. There is option also to upload the app on ours Apple Dev Account. So Pls emails us with your requirements.
+ Lo que haremos es compilar y crear su aplicación. Pero necesitaremos que nos proporcione las credenciales de su cuenta de desarrollador de Apple \(99 $ / a\) para que podamos cargar su aplicación de iPhone. También existe la opción de cargar la aplicación en nuestra cuenta Apple Dev. Entonces, por favor envíenos un correo electrónico con sus requisitos.
 

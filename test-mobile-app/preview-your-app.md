@@ -1,9 +1,8 @@
-# Preview your app
+# Previsualiza la app
 
-## Preview the app in Browser
+## Vista previa de la aplicación en el navegador
 
-If you go to preview, you will see a iPhone in the browser, and Unique ID number.  
-Enter this Unique ID in the app, and you will be able to preview your app directly in browser.
+Si va a la vista previa, verá un iPhone en el navegador y un número de identificación único. Ingrese este ID único en la aplicación y podrá obtener una vista previa de su aplicación directamente en el navegador.
 
 ![](../.gitbook/assets/uniqueid.png)
 
