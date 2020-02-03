@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Learn how to make mobile apps](README.md)
+* [Aprende a hacer aplicaciones móviles](README.md)
 
-## How to make an app
+## Cómo hacer una aplicación <a id="how-to-make-an-app"></a>
 
 * [Creando App en el constructor](how-to-make-an-app/create-apps-in-the-app-builder.md)
 * [Administra la aplicación](how-to-make-an-app/manage-the-app.md)
@@ -15,11 +15,11 @@
 * [Configuración de la app de radio](how-to-make-an-app/specific-app-setp.md)
 * [Ajuste de la App](how-to-make-an-app/app-settings.md)
 
-## Test Mobile App
+## Probar aplicación móvil <a id="test-mobile-app"></a>
 
 * [Previsualiza la app](test-mobile-app/preview-your-app.md)
 
-## Publishing and updating
+## Publicación y actualización <a id="publishing-and-updating"></a>
 
 * [Enviar aplicación para creación](publishing-and-updating/submit-app-for-creation.md)
 * [Publish iOS App](publishing-and-updating/publish-ios-app.md)

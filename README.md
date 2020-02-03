@@ -1,4 +1,4 @@
-# Learn how to make mobile apps
+# Aprende a hacer aplicaciones móviles
 
-This tutorial will guide you on how to make apps in our app builder.
+Este tutorial lo guiará sobre cómo crear aplicaciones en nuestro Constructor
 
