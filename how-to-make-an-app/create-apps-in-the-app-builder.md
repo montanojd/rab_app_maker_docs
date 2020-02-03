@@ -1,18 +1,18 @@
-# Create apps in the app builder
+# Creando App en el constructor
 
-Soon as you log in, and have subscribed to a plan, you will be able to make a new app.
+Tan pronto como inicie sesión y se haya suscrito a un plan, podrá crear una nueva aplicación.
 
 ![](../.gitbook/assets/create_app.png)
 
-After opening the screen for creating app, for now, you can choose between 12 templates, but stay tuned, new templates are coming soon. Templates have already created an app with the basic sections \(ex: Conference template contains: agenda, the location where the conference is, buy a tickets section, social and etc\). You can add or delete a section, it's up to your needs.
+Después de abrir la pantalla para crear la aplicación, por ahora, puede elegir entre 12 plantillas, pero esté atento, las nuevas plantillas estarán disponibles pronto. Las plantillas ya han creado una aplicación con las secciones básicas \(por ejemplo: la plantilla de la conferencia contiene: agenda, el lugar donde se realiza la conferencia, comprar una sección de entradas, redes sociales, etc.\). Puede agregar o eliminar una sección, depende de sus necesidades.
 
 ![](../.gitbook/assets/screenshot-at-oct-24-13-39-04.png)
 
-Next, you have to choose a layout. For now, there are two layouts \(**tabs** and **side**\). But very soon **grid** layout will be included. 
+A continuación, debe elegir un diseño. Por ahora, hay dos diseños \(pestañas y laterales\). Pero muy pronto se incluirá el diseño de la cuadrícula.
 
 ![](../.gitbook/assets/screenshot-at-oct-24-13-39-16.png)
 
-In the end, you should enter the app name and app id in the fields like in the picture below.
+Al final, debe ingresar el nombre y la identificación de la aplicación en los campos como en la imagen a continuación.
 
 ![](../.gitbook/assets/screenshot-at-oct-24-13-39-26.png)
 

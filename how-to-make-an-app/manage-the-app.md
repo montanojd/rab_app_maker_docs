@@ -1,47 +1,42 @@
-# Manage the app
+# Administra la aplicación
 
-By clicking on the app, will bring you to your App setup and there you have options to preview your sections, add new sections and change the basics like changing the app images, name, package id.
+Al hacer clic en la aplicación, accederá a la configuración de la aplicación y allí tendrá opciones para previsualizar sus secciones, agregar nuevas secciones y cambiar los conceptos básicos, como cambiar las imágenes de la aplicación, el nombre y la identificación del paquete.
 
-**Sections**
+**Secciones**
 
-If you want to change the order of how the section is listed you can do that by drag and drop the section like in the picture below.
+Si desea cambiar el orden de cómo se enumera la sección, puede hacerlo arrastrando y soltando la sección como en la imagen a continuación.
 
-**Add section**
+**Agregar Secciones**
 
-By clicking on Add section you can add the additional section that you need. You have 2 options of sections 
+Al hacer clic en Agregar sección, puede agregar la sección adicional que necesita. Tienes 2 opciones de secciones
 
-* **Master-detail views** - events, shop, food menu, recipe, gallery, radio and general \( the one that you want to customize according to your needs\).
-* **Specific views** - folder section, cart, orders, user profile, user list, map, notifications, scanner, web view, links list.
+* **Vista detalles principales** - eventos, tienda, menú de comida, receta, galería, radio y general \(el que desea personalizar según sus necesidades\).
+* **Vistas especificas** - sección de carpeta, carrito, pedidos, perfil de usuario, lista de usuarios, mapa, notificaciones, escáner, vista web, lista de enlaces.
 
-When you click on the section it should appear an alert that says that new section in successfully added, just like at the picture below.
+Cuando hace clic en la sección, debería aparecer una alerta que dice que la nueva sección se agregó correctamente, como en la imagen a continuación.
 
-![](../.gitbook/assets/screenshot.png)
+![](../.gitbook/assets/2020-01-31_1336.png)
 
-**Section settings**
+Configuraciones de sección
 
-By clicking on the gear icon in the section, this is the settings icon, it will open a completely new view where you can select different setup for this menu. Look at the picture below.
+Al hacer clic en el ícono de ajustes en la sección, este es el ícono de configuración, se abrirá una vista completamente nueva donde puede seleccionar una configuración diferente para este menú. Mira la foto de abajo....
 
 ![](../.gitbook/assets/screenshot-1.png)
 
-When you click on the icon it should open a view like this one in the picture below.
+Cuando hace clic en el icono, debería abrir una vista como esta en la imagen a continuación.
 
 ![](../.gitbook/assets/screenshot-2.png)
 
-Here you can change: 
+Aquí puedes cambiar:
 
- - **Basic** setup:
-
-* icon
-* show category
-* is this menu root
-* list style
-* name of the menu
-* section
-
- - **Categories** setup
-
- -  **Listing** setup
-
- -  **Details** setup  
-
+* Configuracion Basica:
+* icono
+* Mostrar categoria
+* si es menu raiz
+* estilo de lista
+* Nombre del menu
+* secciones
+  * **Configuracion** de categoria
+  * Configuración de listado
+  * Detalles de configuración
 

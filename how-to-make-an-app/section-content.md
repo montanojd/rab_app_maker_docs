@@ -1,18 +1,16 @@
-# Section content
+# Contenido de la sección
 
-Master-detail views - events, shop, food menu, recipe, gallery, radio and general all have the option to display different content. You can access and manage this content from the "**Database**" icon on each section.
+Vistas de detalles maestros: eventos, tienda, menú de comida, receta, galería, radio y general, todos tienen la opción de mostrar contenido diferente. Puede acceder y administrar este contenido desde el icono "Base de datos" en cada sección.
 
 ![](../.gitbook/assets/screenshot-3.png)
 
-By clicking on the icon, a new window will appear, where you can add your content.
+Al hacer clic en el icono, aparecerá una nueva ventana, donde puede agregar su contenido.
 
 ![](../.gitbook/assets/screenshot-4.png)
 
-Clicking on the "**Folder**" icon will open the categories screen for that section. 
+Al hacer clic en el icono "**Carpeta"** se abrirá la pantalla de categorías para esa sección.
 
 ![](../.gitbook/assets/screenshot-5.png)
 
-By clicking on the icon, a new window will appear, where you can add your categories.
-
-
+Al hacer clic en el icono, aparecerá una nueva ventana, donde puede agregar sus categorías.
 
