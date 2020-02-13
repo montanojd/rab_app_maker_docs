@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Aprende a hacer aplicaciones móviles](README.md)
+* [Configuración del entorno](configuracion-del-entorno.md)
 
 ## Cómo hacer una aplicación <a id="how-to-make-an-app"></a>
 
