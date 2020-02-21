@@ -2,3 +2,5 @@
 
 Este tutorial lo guiará sobre cómo crear aplicaciones en nuestro Constructor
 
+![](.gitbook/assets/builder.png)
+
