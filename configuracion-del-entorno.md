@@ -50,6 +50,16 @@ Esperamos que descargue los componentes, nos preguntara si queremos reiniciar le
 
 ![esperemos que descargue los componentes](.gitbook/assets/powershel2.png)
 
+## Instalar ubuntu desde Microsoft store
+
+![](.gitbook/assets/ubuntu2.png)
+
+Click en obtener y luego instalar, se abrirá la consola de windows automaticamente, donde instalara los componentes, puede tardar varios minutos, le pedirá un **usuario y contraseña Unix**, puede crear uno, y con eso se termina el proceso.
+
+![](.gitbook/assets/ubuntu.png)
+
+
+
 
 
 
