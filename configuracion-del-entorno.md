@@ -6,6 +6,9 @@ Necesitará Node, Expo, RAB IInstaller
 2. Instalar Git [Aqui](https://git-scm.com/downloads)
 3. Descargar la carpeta para la compilación Manual [Aqui](http://academiadeapps.com/cursoapps/ios/builder.zip)
 4. Registrarse en [https://expo.io/](https://expo.io/)
+5. instalar NPM en carpeta Mobile App
+6. Habilite el subsistema de Windows para Linux \(solo para los que trabajan con iOS\)
+7. instalar ubuntu desde Microsoft store \(solo para los que trabajan con iOS\)
 
 ### Instalar Expo
 
@@ -31,9 +34,25 @@ En Git copiamos el siguiente código **\(**npm install -g rabinstaller\) y presi
 
 ![](.gitbook/assets/rab_installer.png)
 
+## instalar NPM en carpeta Mobile App
+
+{% embed url="https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3" caption="El proceso puede tardar varios minutos en completarse" %}
+
+### Habilite el subsistema de Windows
+
+Ejecutamos PowerShell desde Windows en modo Administrador
+
+![](.gitbook/assets/powershell.jpg)
+
+Al Abrirse ejecutamos el siguiente código y tecleamos Enter.`Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+
+Esperamos que descargue los componentes, nos preguntara si queremos reiniciar le decimos que si tecleando\(y\)
+
+![esperemos que descargue los componentes](.gitbook/assets/powershel2.png)
 
 
 
 
-\*\*\*\*
+
+
 
