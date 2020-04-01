@@ -38,6 +38,10 @@ En Git copiamos el siguiente código **\(**npm install -g rabinstaller\) y presi
 
 {% embed url="https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3" caption="El proceso puede tardar varios minutos en completarse" %}
 
+Al terminal la instalación debe mostrarse un mensaje como el que aparece en la gráfica debajo
+
+![](.gitbook/assets/npm_final.png)
+
 ### Habilite el subsistema de Windows
 
 Ejecutamos PowerShell desde Windows en modo Administrador
