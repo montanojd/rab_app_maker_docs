@@ -28,6 +28,14 @@ Se abrirá una ventana de comando donde copiamos el siguiente código **\(** _**
 
 ![si todo funciona correctamente deber&#xED;a aparecer este mensaje](.gitbook/assets/expo_finish.png)
 
+### Iniciar sesión con la cuenta Expo en la Consola
+
+{% embed url="https://www.loom.com/share/76bc1b75175d43b5beb571d85d923101" caption="El tecleo de contraseña es invisible" %}
+
+
+
+
+
 ### Instalar RAB Installer
 
 En Git copiamos el siguiente código **\(**npm install -g rabinstaller\) y presionamos Enter, se instalara los paquetes necesarios.
