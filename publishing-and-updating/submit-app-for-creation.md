@@ -4,11 +4,19 @@ Para enviar su aplicación a compilar, haga clic en "Enviar aplicación"
 
 ![](../.gitbook/assets/submit.png)
 
-Haga clic en el botón Enviar aplicación 
+Tomar nota del id de la App 
 
-Nuestro proceso automatizado compilará y construirá su aplicación móvil en unos minutos, generalmente 10-20. 
+![](../.gitbook/assets/enviar_app.png)
 
-Le enviaremos un enlace que contiene un archivo .aab. Esta es una nueva versión del archivo apk. Será de unos 50 MB. Pero cuando se carga en la consola de Google Play Developer, Google se reducirá a 16-20 MB.
+### Compilar la app en Git
+
+{% embed url="https://www.loom.com/share/de514f0b0d0849198addd40252a4a1bf" %}
+
+Terminado el Proceso pueden visualizar su app en [https://expo.io/builds](https://expo.io/builds), pueden probarla desde el dispositivo móvil
+
+![](../.gitbook/assets/enviar_app2.png)
+
+
 
  Para la aplicación de iPhone. Necesitaremos algunas cosas adicionales de tu lado.
 
