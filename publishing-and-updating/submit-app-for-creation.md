@@ -22,7 +22,3 @@ Terminado el Proceso pueden visualizar su app en [https://expo.io/builds](https:
 
 ![](../.gitbook/assets/submit_2.png)
 
-Envíenos un correo electrónico con información sobre cómo podemos proceder.
-
- Lo que haremos es compilar y crear su aplicación. Pero necesitaremos que nos proporcione las credenciales de su cuenta de desarrollador de Apple \(99 $ / a\) para que podamos cargar su aplicación de iPhone. También existe la opción de cargar la aplicación en nuestra cuenta Apple Dev. Entonces, por favor envíenos un correo electrónico con sus requisitos.
-
