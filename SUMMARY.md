@@ -27,3 +27,7 @@
 * [Publish iOS App](publishing-and-updating/publish-ios-app.md)
 * [Updating your app](publishing-and-updating/updating-your-app.md)
 
+## Errores Comunes
+
+* [Solucion al error \#5 Android app creation failed](errores-comunes/solucion-al-error-5.md)
+
