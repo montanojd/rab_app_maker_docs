@@ -30,6 +30,8 @@ Se abrirá una ventana de comando donde copiamos el siguiente código **\(** _**
 
 ### Iniciar sesión con la cuenta Expo en la Consola
 
+
+
 {% embed url="https://www.loom.com/share/76bc1b75175d43b5beb571d85d923101" caption="El tecleo de contraseña es invisible" %}
 
 
@@ -43,6 +45,8 @@ En Git copiamos el siguiente código **\(**npm install -g rabinstaller\) y presi
 ![](.gitbook/assets/rab_installer.png)
 
 ## instalar NPM en carpeta Mobile App
+
+
 
 [https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3](https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3)  
 
