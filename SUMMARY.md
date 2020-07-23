@@ -3,6 +3,7 @@
 * [Aprende a hacer aplicaciones móviles](README.md)
 * [Configuración del entorno](configuracion-del-entorno.md)
 * [Entorno Mac](entorno-mac.md)
+* [Actualización de la nueva versión](actualizacion-de-la-nueva-version.md)
 
 ## Cómo hacer una aplicación <a id="how-to-make-an-app"></a>
 
