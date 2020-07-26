@@ -27,14 +27,6 @@ Proceso de Instalación de Expo.
 
 ![Si todo se instalo exitosamente, nos mostrara un mensaje como este](.gitbook/assets/image%20%281%29.png)
 
-3. **Instalar RAB Installer** \( `sudo npm install -g rabinstaller` \)
-
-![](.gitbook/assets/image%20%2811%29.png)
-
-Proceso de instalación del Rab Installer
-
-![Instalaci&#xF3;n Exitosa](.gitbook/assets/image%20%282%29.png)
-
 ## Instalando NPM Install en el directorio Builder/Mobile App
 
 Abrimos terminal, y ejecutamos `cd documents`
