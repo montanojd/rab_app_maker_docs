@@ -20,7 +20,7 @@
 
 {% embed url="https://youtu.be/o75N74Ny-fs" %}
 
-Luego de finalizar la instalacion, podran compilar las apps para playstore.
+Luego de finalizar la instalación, podrán compilar las apps para playstore.
 
 ## Recurso Adicional \(como navegar en directorios con Git\)
 
