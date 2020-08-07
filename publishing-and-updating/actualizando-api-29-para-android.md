@@ -22,3 +22,13 @@
 
 Luego de finalizar la instalacion, podran compilar las apps para playstore.
 
+## Recurso Adicional \(como navegar en directorios con Git\)
+
+Ya no usamos la carpeta "Builder" navegar directamente a la carpeta "Mobile App"
+
+{% embed url="https://www.loom.com/share/dacd8a38800443988cb9c6280580bf27?fbclid=IwAR10J3ESgZgioG7O098JvtKu7byY7mfqz5K6pLmPSMJtJ5K\_ZXJXF9HfyZo" %}
+
+
+
+
+
