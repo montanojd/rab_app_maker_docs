@@ -7,6 +7,7 @@
 
 ## Cómo hacer una aplicación <a id="how-to-make-an-app"></a>
 
+* [Agregar usuario Expo al final de cada app](how-to-make-an-app/agregar-usuario-expo-al-final-de-cada-app.md)
 * [Creando App en el constructor](how-to-make-an-app/create-apps-in-the-app-builder.md)
 * [Administra la aplicación](how-to-make-an-app/manage-the-app.md)
 * [Contenido de la sección](how-to-make-an-app/section-content.md)
@@ -17,6 +18,11 @@
   * [Colores del menu](how-to-make-an-app/app-design/colores-del-menu.md)
 * [Configuración de la app de radio](how-to-make-an-app/specific-app-setp.md)
 * [Ajuste de la App](how-to-make-an-app/app-settings.md)
+
+## Recursos del Constructor
+
+* [Ocultando Menú Login](recursos-del-constructor/ocultando-menu-login.md)
+* [Esconder la categoría "ALL"](recursos-del-constructor/esconder-la-categoria-all.md)
 
 ## Probar aplicación móvil <a id="test-mobile-app"></a>
 
