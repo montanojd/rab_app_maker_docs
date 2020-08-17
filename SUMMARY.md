@@ -27,6 +27,7 @@
 * [Publicando la App en playstoore](recursos-del-constructor/publicando-la-app-en-playstoore.md)
 * [Códigos Admob](recursos-del-constructor/codigos-admob.md)
 * [Sección Webview](recursos-del-constructor/seccion-webview.md)
+* [Lista de Reproducción Html al constructor](recursos-del-constructor/lista-de-reproduccion-html-al-constructor.md)
 * [Insertar Códigos Html en Webview](recursos-del-constructor/insertar-codigos-html-en-webview.md)
 * [Formulario de Contacto Airtable](recursos-del-constructor/formulario-de-contacto-airtable.md)
 * [Creando Proyecto en Firebase](recursos-del-constructor/creando-proyecto-en-firebase.md)
