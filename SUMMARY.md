@@ -21,8 +21,13 @@
 
 ## Recursos del Constructor
 
+* [Comandos en Git](recursos-del-constructor/comandos-en-git.md)
 * [Ocultando Menú Login](recursos-del-constructor/ocultando-menu-login.md)
 * [Esconder la categoría "ALL"](recursos-del-constructor/esconder-la-categoria-all.md)
+* [Publicando la App en playstoore](recursos-del-constructor/publicando-la-app-en-playstoore.md)
+* [Códigos Admob](recursos-del-constructor/codigos-admob.md)
+* [Sección Webview](recursos-del-constructor/seccion-webview.md)
+* [Insertar Códigos Html en Webview](recursos-del-constructor/insertar-codigos-html-en-webview.md)
 
 ## Probar aplicación móvil <a id="test-mobile-app"></a>
 
