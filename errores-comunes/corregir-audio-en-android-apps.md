@@ -1,10 +1,8 @@
 # Corregir Audio en Android Apps
 
-## Extraer el archivo Details.js y reemplazarlo en la ruta `Mobile App\App\Containers`
-
-![](../.gitbook/assets/image%20%2817%29.png)
+## Descargar el archivo Details.zip y extraer el archivo Details.js y reemplazarlo en la ruta `Mobile App\App\Containers`
 
 {% file src="../.gitbook/assets/details.zip" caption="Extraer archivo y reemplazar en Mobile App\\App\\Containers" %}
 
-
+![](../.gitbook/assets/image%20%2819%29.png)
 
