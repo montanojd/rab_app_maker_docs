@@ -45,6 +45,7 @@
 
 ## Errores Comunes
 
+* [Corregir Audio en Android Apps](errores-comunes/corregir-audio-en-android-apps.md)
 * [Solucion al error \#5 Android app creation failed](errores-comunes/solucion-al-error-5.md)
 * [Solución al error \#6 Submit data not set](errores-comunes/solucion-al-error-6-submit-data-not-set.md)
 
