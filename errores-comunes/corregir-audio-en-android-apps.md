@@ -6,3 +6,7 @@
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
+## Este proceso es una única vez, luego todas las apps que compilen quedaran actualizadas
+
+
+
