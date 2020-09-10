@@ -4,6 +4,8 @@ description: Para crear el proyecto y otorgar permisos
 
 # Configurar Proyecto Firebase
 
+### Importante \(colocar un nombre al proyecto seguido de tu nombre para poder diferenciar cuando haga la instalación\)
+
 {% embed url="https://www.loom.com/share/e0c7c50b100746e28c929c39f96d72d1" %}
 
 ## Create Realtime DB
