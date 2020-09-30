@@ -1,4 +1,4 @@
-# Ajuste de la App
+# Códigos Admob
 
 ## Admob
 
@@ -6,5 +6,7 @@ Desde aquí puede administrar y cambiar  las configuración de anuncios que incl
 
 En este enlace puede crear su banner y anuncios intersticiales. Cuando tenga los identificadores, configúrelos en BannerId e InterstitialId.
 
-![Una vez publicada la app, cambia todos los valores a &quot;True&quot;](../.gitbook/assets/admob.png)
+En la imagen se muestra la configuración correcta de los anuncios
+
+![](../.gitbook/assets/image%20%2823%29.png)
 
