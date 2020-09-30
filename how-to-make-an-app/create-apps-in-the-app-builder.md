@@ -8,11 +8,8 @@ Después de abrir la pantalla para crear la aplicación, por ahora, puede elegir
 
 ![](../.gitbook/assets/screenshot-at-oct-24-13-39-04.png)
 
-A continuación, debe elegir un diseño. Por ahora, hay dos diseños \(pestañas y laterales\). Pero muy pronto se incluirá el diseño de la cuadrícula.
-
-![](../.gitbook/assets/screenshot-at-oct-24-13-39-16.png)
-
-Al final, debe ingresar el nombre y la identificación de la aplicación en los campos como en la imagen a continuación.
+Debe ingresar el nombre de la app, no debe lllevar números ni ser muy largo  y la identificación de la aplicación en los campos como en la imagen a continuación.  
+la formula del nombre del paquete es **com.tunombredesarrollador.elnombredelaapp**
 
 ![](../.gitbook/assets/screenshot-at-oct-24-13-39-26.png)
 
