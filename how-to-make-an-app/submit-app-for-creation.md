@@ -8,9 +8,15 @@ Tomar nota del id de la App
 
 ![](../.gitbook/assets/enviar_app.png)
 
-### Compilar la app
+### Compilar la app iOS
 
 {% embed url="https://www.loom.com/share/7d901ed6ec8748958ae81370bfd3d891" %}
+
+### Compilando para Android
+
+{% embed url="https://www.loom.com/share/961f4b775bdf488eb3b39af8a4e56b30" caption="Esperar que culmine el proceso de compilacion" %}
+
+
 
 
 
