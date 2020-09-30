@@ -36,8 +36,6 @@
 
 ## Publicación y actualización <a id="publishing-and-updating"></a>
 
-* [Publish iOS App](publishing-and-updating/publish-ios-app.md)
-* [Updating your app](publishing-and-updating/updating-your-app.md)
 * [Actualizando API 29 Para Android](publishing-and-updating/actualizando-api-29-para-android.md)
 
 ## Errores Comunes
