@@ -1,61 +1,7 @@
-# Configuración del entorno
+# Configuración del entorno iOS
 
-Necesitará Node, Expo, RAB IInstaller
-
-1. Instalar node y npm: descárguelo Para Windows [aquí.](https://nodejs.org/download/release/v10.16.0/node-v10.16.0-x64.msi) Mac [Aqui](https://nodejs.org/download/release/v10.16.0/node-v10.16.0.pkg)
-2. Instalar Git [Aqui](https://git-scm.com/downloads)
-3. Descargar la carpeta para la compilación Manual [Aqui](http://academiadeapps.com/cursoapps/ios/builder.zip)
-4. Registrarse en [https://expo.io/](https://expo.io/)
-5. instalar NPM en carpeta Mobile App
-6. Habilite el subsistema de Windows para Linux \(solo para los que trabajan con iOS\)
-7. instalar ubuntu desde Microsoft store \(solo para los que trabajan con iOS\)
-
-### Instalar Expo
-
-Abrir la aplicacion Instalada **Git** 
-
-![](.gitbook/assets/abrir_git.png)
-
-Se abrirá una ventana de comando donde copiamos el siguiente código **\(** _****npm install -g expo-cli_\)
-
-![pegamos el c&#xF3;digo npm install -g expo-cli y presionamos &quot;Enter&quot;](.gitbook/assets/comando_git.png)
-
-                                                              **Comenzara a instalarse los componentes**
-
-![](.gitbook/assets/expo-install.png)
-
-                                              **Al finalizar la instalación se vera como en la siguiente imagen**
-
-![si todo funciona correctamente deber&#xED;a aparecer este mensaje](.gitbook/assets/expo_finish.png)
-
-### Iniciar sesión con la cuenta Expo en la Consola
-
-
-
-{% embed url="https://www.loom.com/share/76bc1b75175d43b5beb571d85d923101" caption="El tecleo de contraseña es invisible" %}
-
-
-
-
-
-### Instalar RAB Installer
-
-En Git copiamos el siguiente código **\(**npm install -g rabinstaller\) y presionamos Enter, se instalara los paquetes necesarios.
-
-![](.gitbook/assets/rab_installer.png)
-
-## instalar NPM en carpeta Mobile App
-
-
-
-[https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3](https://www.loom.com/share/fa7bd70cc44b45c1bb2c9520818e8ee3)  
-
-
-
-
-Al terminal la instalación debe mostrarse un mensaje como el que aparece en la gráfica debajo
-
-![](.gitbook/assets/npm_final.png)
+1. Habilite el subsistema de Windows para Linux \(solo para los que trabajan con iOS\)
+2. instalar ubuntu desde Microsoft store \(solo para los que trabajan con iOS\)
 
 ### Habilite el subsistema de Windows
 
