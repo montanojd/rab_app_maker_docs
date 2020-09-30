@@ -2,7 +2,7 @@
 
 En esta sección, explicamos las cosas comunes que puede hacer a un determinado componente / plantilla.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ## Artículo de inicio / Caso de uso - Aplicación de radio <a id="startup-item-use-case-radio-app"></a>
 

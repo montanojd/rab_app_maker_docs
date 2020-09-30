@@ -20,5 +20,7 @@ Terminado el Proceso pueden visualizar su app en [https://expo.io/builds](https:
 
 
 
- 
+ Desde [Expo](https://expo.io/dashboard/) pueden descargar el IPA \(iphone\) como el aab \(android\)
+
+![](../.gitbook/assets/image%20%2820%29.png)
 

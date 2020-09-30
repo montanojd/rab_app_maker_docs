@@ -8,5 +8,5 @@ En este enlace puede crear su banner y anuncios intersticiales. Cuando tenga los
 
 En la imagen se muestra la configuración correcta de los anuncios
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
