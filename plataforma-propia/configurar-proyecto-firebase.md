@@ -4,7 +4,7 @@ description: Para crear el proyecto y otorgar permisos
 
 # Configurar Proyecto Firebase
 
-### Ingresar en [https://firebase.google.com/](https://firebase.google.com/)
+### Ingresar en [https://firebase.google.com/](https://firebase.google.com/) con la cuenta gmail donde estará alojado el constructor.
 
 ### Importante \(colocar un nombre al proyecto seguido de tu nombre para poder diferenciar cuando haga la instalación\)
 
